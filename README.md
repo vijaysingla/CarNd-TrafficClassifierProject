@@ -12,9 +12,7 @@ This project creates and trains a deep convolutional neural network from scratch
 [image3]: ./test_images/speed_limit_120.jpg
 [image4]: ././test_images/speed_limit60.jpg
 
-![alt text][image1] ![alt text][image2]
-![alt text][image4] 
-
+![alt text][image1] ![alt text][image2] ![alt text][image4] 
 
 ### Dependencies
 This project requires Python 3.5 and the following Python libraries installed:

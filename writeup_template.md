@@ -78,7 +78,7 @@ My final model consisted of the following layers:
 
 #### Model Training
 
-I used Adam optimizer algorithm to train the model. I used hperparameters (mu,sigma)=(0,1) , Batch Size=10, Epoch= 15, 
+I used Adam optimizer algorithm to train the model. I used hperparameters (mu,sigma)=(0,0.1) , Batch Size=10, Epoch= 15, 
 and initial learning rate as 0.001 . 
 
 #### Model Training and Testing results
@@ -101,7 +101,6 @@ Here are five German traffic signs that I found on the web:
 ![alt text][image3] ![alt text][image4] ![alt text][image5] 
 ![alt text][image6] ![alt text][image7]
 
-The first image might be difficult to classify because ...
 
 ####  Model's predictions on these new traffic signs 
 Here are the results of the prediction:
