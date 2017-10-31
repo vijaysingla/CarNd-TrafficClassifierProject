@@ -101,6 +101,7 @@ Here are five German traffic signs that I found on the web:
 ![alt text][image3] ![alt text][image4] ![alt text][image5] 
 ![alt text][image6] ![alt text][image7]
 
+The first image is difficult to predict due to presence of watermark and background object. The second image does not have any background object but still has watermark that might cause issues in prediction . The third image i.e stop sign is of low contrast that might cause some issues in prediction.The fourth image is easy to predict. The fifth image although very clear and easy to detect, still has some characters written at the bottom that seems to be from another language , might cause some issues.
 
 ####  Model's predictions on these new traffic signs 
 Here are the results of the prediction:
